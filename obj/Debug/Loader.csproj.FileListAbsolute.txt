@@ -1,0 +1,9 @@
+C:\Users\ruelb\Desktop\Hydra\bin\Debug\Loader.exe.config
+C:\Users\ruelb\Desktop\Hydra\bin\Debug\Loader.exe
+C:\Users\ruelb\Desktop\Hydra\bin\Debug\Loader.pdb
+C:\Users\ruelb\Desktop\Hydra\obj\Debug\Loader.csprojAssemblyReference.cache
+C:\Users\ruelb\Desktop\Hydra\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Users\ruelb\Desktop\Hydra\obj\Debug\Loader.exe
+C:\Users\ruelb\Desktop\Hydra\obj\Debug\Loader.pdb
+C:\Users\ruelb\Desktop\Hydra\bin\Debug\Colorful.Console.dll
+C:\Users\ruelb\Desktop\Hydra\obj\Debug\Loader.csproj.CopyComplete
