@@ -24,7 +24,7 @@ namespace KeyAuth {
 
             if (string.IsNullOrWhiteSpace(name) || string.IsNullOrWhiteSpace(ownerid) || string.IsNullOrWhiteSpace(secret) || string.IsNullOrWhiteSpace(version))
             {
-                Console.WriteLine("\n\n  Contact venxxi#1337 if you see this. ASAP!");
+                Console.WriteLine("\n\n  Contact FaxHackâ„¢#1211 if you see this. ASAP!");
                 Thread.Sleep(3500);
                 Environment.Exit(0);
             }
@@ -208,7 +208,7 @@ namespace KeyAuth {
             {
                 System.Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.Write("\n\n  [", Color.White);
-                Console.Write("»", Color.DarkRed);
+                Console.Write("Â»", Color.DarkRed);
                 Console.Write("] ", Color.White);
                 Console.Write("" + json.message);
                 Thread.Sleep(3500);
@@ -218,7 +218,7 @@ namespace KeyAuth {
             {
                 System.Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.Write("\n\n  [", Color.White);
-                Console.Write("»", Color.DarkRed);
+                Console.Write("Â»", Color.DarkRed);
                 Console.Write("] ", Color.White);
                 Console.Write("Succesfully Logged In!", Color.Green);
                 load_user_data(json.info);
